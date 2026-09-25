@@ -1,4 +1,4 @@
-# Vaccination EDA Capstone Project
+# Vaccination EDA Project
 
 ## 📌 Project Overview
 
